@@ -1,6 +1,6 @@
 # 🏢 OpenCRM – Spring Boot + GraphQL CRM Example
 
-> 🚨 **Note:** This project is for **learning purposes only**. It is **not recommended** to deploy it directly to a production environment.
+
 
 ---
 
